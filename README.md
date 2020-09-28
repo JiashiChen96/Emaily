@@ -8,6 +8,8 @@ This is a course called **Node with React** from Udemy.
 
 ### Tech Stack
 
+**Frontend:** React
+
 **Backend:** Node js + Express
 
 **Database:** MongoDB
