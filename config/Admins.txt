@@ -1,5 +1,0 @@
-user: Admin
-password: AJrYEvOQfz6Wjiy4
-
-
-Sendgrid Key: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
