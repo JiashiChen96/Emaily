@@ -43,7 +43,3 @@ Package
 ### Reference
 
 [Course LInk](https://www.udemy.com/course/node-with-react-fullstack-web-development/)
-
-Client ID: 825200491869-p1d2dd7rbqs32fvlt66r0k9l0i9nudhr.apps.googleusercontent.com
-
-Client Secret: kY8Hbyv5rTOcuuYqldQUhOqg
